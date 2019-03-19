@@ -1,0 +1,6 @@
+framework module abibyk2019 {
+  umbrella header "abibyk2019-umbrella.h"
+
+  export *
+  module * { export * }
+}

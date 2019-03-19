@@ -1,0 +1,16 @@
+PODS:
+  - abibyk2019 (0.1.0)
+
+DEPENDENCIES:
+  - abibyk2019 (from `abibyk2019`)
+
+EXTERNAL SOURCES:
+  abibyk2019:
+    :path: abibyk2019
+
+SPEC CHECKSUMS:
+  abibyk2019: e64b077e0e95ecdd0c16b0439564e9810983b263
+
+PODFILE CHECKSUM: 08b7fefd379992fec282f2d996e758693c85a3b5
+
+COCOAPODS: 1.5.3

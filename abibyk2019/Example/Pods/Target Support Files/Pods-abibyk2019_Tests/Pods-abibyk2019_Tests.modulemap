@@ -1,0 +1,6 @@
+framework module Pods_abibyk2019_Tests {
+  umbrella header "Pods-abibyk2019_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

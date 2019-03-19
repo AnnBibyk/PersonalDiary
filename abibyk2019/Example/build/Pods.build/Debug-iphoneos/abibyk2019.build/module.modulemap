@@ -1,0 +1,11 @@
+framework module abibyk2019 {
+  umbrella header "abibyk2019-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module abibyk2019.Swift {
+    header "abibyk2019-Swift.h"
+    requires objc
+}

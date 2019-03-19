@@ -1,0 +1,24 @@
+{
+  "name": "abibyk2019",
+  "version": "0.1.0",
+  "summary": "Summary abibyk2019",
+  "description": "This is description of the description that I could come up with :)",
+  "homepage": "https://github.com/AnnBibyk/abibyk2019",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AnnBibyk": "abibyk@student.unit.ua"
+  },
+  "source": {
+    "git": "https://github.com/AnnBibyk/abibyk2019.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "abibyk2019/Classes/**/*",
+  "resources": "abibyk2019/Assets/*.xcdatamodeld",
+  "frameworks": "CoreData"
+}

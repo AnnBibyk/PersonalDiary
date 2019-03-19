@@ -1,0 +1,10 @@
+framework module abibyk2019 {
+  umbrella header "abibyk2019-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module abibyk2019.__Swift {
+    exclude header "abibyk2019-Swift.h"
+}

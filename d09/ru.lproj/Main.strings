@@ -1,0 +1,30 @@
+/* Class = "UILabel"; text = "created_at"; ObjectID = "5cD-UH-Ktg"; */
+"5cD-UH-Ktg.text" = "Создано";
+
+/* Class = "UINavigationItem"; title = "New Post"; ObjectID = "9sU-82-PO5"; */
+"9sU-82-PO5.title" = "Новый пост";
+
+/* Class = "UIViewController"; title = "Auth"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Авторизация";
+
+/* Class = "UINavigationItem"; title = "Diary"; ObjectID = "D95-cX-upu"; */
+"D95-cX-upu.title" = "Дневник";
+
+/* Class = "UIButton"; normalTitle = "Choose Picture"; ObjectID = "G4H-Bc-h76"; */
+"G4H-Bc-h76.normalTitle" = "Выбрать из библиотеки";
+
+/* Class = "UIButton"; normalTitle = "Take Picture"; ObjectID = "VlA-8V-BIk"; */
+"VlA-8V-BIk.normalTitle" = "Открыть Камеру";
+
+/* Class = "UINavigationItem"; title = "Diary"; ObjectID = "cF8-Qs-POu"; */
+"cF8-Qs-POu.title" = "Дневник";
+
+/* Class = "UILabel"; text = "updated_at"; ObjectID = "j2r-Og-Zh8"; */
+"j2r-Og-Zh8.text" = "Изменено";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "nBM-AP-Ndz"; */
+"nBM-AP-Ndz.text" = "Заголовок";
+
+/* Class = "UILabel"; text = "content"; ObjectID = "y3o-3K-8wo"; */
+"y3o-3K-8wo.text" = "Содержание";
+
