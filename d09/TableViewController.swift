@@ -113,6 +113,7 @@ class TableViewController: UITableViewController {
     
     func handleDeleteArticle(alertAction: UIAlertAction!) -> Void {
         articleManager.removeArticle(article: articleDel!)
+        articleManager.save()
         loadArticles()
         tabArticle.reloadData()
         articleDel = nil
