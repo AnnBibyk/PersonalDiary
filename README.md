@@ -3,7 +3,7 @@ iOS Bootcamp Day09 at UNIT Factory (Ecole42)
 
 ## Description
 
-Personal diary with user authentication that was made with my own Pod (build-in CoreData). There is posibility to change the language of the app into Russian. 
+Personal diary with user authentication that was made using my own Pod (build-in CoreData). There is posibility to change the language of the app into Russian. 
 
 ## Usage
 
